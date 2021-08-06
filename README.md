@@ -1,6 +1,10 @@
 # lawan-wordcloud
 
-Visualise #LAWAN tweets in word cloud with over 20 000 tweets.
+Visualise **#LAWAN** tweets in word cloud with over 20 000 tweets.
+
+![#LAWAN](lawan.png)
+
+## Files
 
 - `scrape-tweets.ipynb`
 
